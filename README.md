@@ -1,6 +1,6 @@
 # ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
-<h3>Name:      ASTLE JOE A S                 </h3>
-<h3>Register Number:   212224240019             </h3>
+<h3>Name:      Narendran K              </h3>
+<h3>Register Number:   212223230135           </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
